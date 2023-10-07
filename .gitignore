@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the .env file
+.env
+
+*.json
+
+# Ignore cache and temporary files
+__pycache__/
+
