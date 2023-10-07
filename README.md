@@ -1,6 +1,11 @@
 # System Monitoring APP
 This application is used to monitor our daily works time spend on each activity on a system
 
+
+https://github.com/nikhilmp448/SystemMonitoring_APP/assets/92564201/15cf34b2-0258-496b-9e59-7f86a01d5829
+
+
+
 ## Features
 track our daily worktime when starts the System Monitoring APP
 shares the details to google spreadsheet after clicking stop button
